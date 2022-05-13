@@ -4,7 +4,7 @@
 
 # <b>Site</b>
 ## Tela Inicial
-<img src="imgs/xadrezgif.gif">
+<img src="imgs/gifdoxadrez.gif">
 
 
 
